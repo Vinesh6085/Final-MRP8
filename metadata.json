@@ -1,0 +1,5 @@
+{
+  "name": "EduGenius AI Platform",
+  "description": "An AI-powered educational platform featuring course management, career roadmaps, AI tutoring, and dynamic quiz generation using Gemini.",
+  "requestFramePermissions": []
+}
